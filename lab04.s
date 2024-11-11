@@ -1,3 +1,4 @@
+#Aikaterini Panagiota Katsanou
 
 .globl str_ge, recCheck
 
